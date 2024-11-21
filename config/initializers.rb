@@ -22,6 +22,7 @@ Bridgetown.configure do |config|
   template_engine "erb"
 
   # keep_files [".no-jekyll"]
+  base_path "/bridgetown-test-project"
 
   # Other options you might want to investigate:
 
